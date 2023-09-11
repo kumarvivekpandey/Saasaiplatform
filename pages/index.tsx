@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <h1 className={styles.title}>
-          Welcome to  SaasAi 
+          Welcome to  SaasAi  Platform
         </h1>
     </div>
   )
